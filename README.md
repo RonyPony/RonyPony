@@ -1,9 +1,9 @@
 ![FullStack Developer](https://biz4solutions.com/wp-content/uploads/2019/09/ios-application-development-banner-mobile.jpg)
 
-### Hi there 👋, I am Miguel Angel Sanchez Peralta
+### Hi there 👋, I am Ronel Cruz Ceballos
 #### Senior Software Engineer
 
-I am Miguel Angel Sanchez Peralta alias MangelDarks a software engineer who believes in simplicity. I currently studying at the institute technological of UNAPEC studying software development. It is my passion to conceptualize, develop, and deploy ideas to this great environment we call the internet. I am an advocate for Higher Education advancement and when I set my goals I sink my teeth into them.
+I am Ronel Cruz Ceballos alias MangelDarks a software engineer who believes in simplicity. I currently studying at the institute technological of UNAPEC studying software development. It is my passion to conceptualize, develop, and deploy ideas to this great environment we call the internet. I am an advocate for Higher Education advancement and when I set my goals I sink my teeth into them.
 
 [Check out my portfolio](#)
 
