@@ -1,4 +1,4 @@
-![Front end developer](https://github.com/MangelSP/MangelSPRead/blob/main/banner.png)
+![FullStack Developer](https://biz4solutions.com/wp-content/uploads/2019/09/ios-application-development-banner-mobile.jpg)
 
 ### Hi there 👋, I am Miguel Angel Sanchez Peralta
 #### Senior Software Engineer
