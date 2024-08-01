@@ -18,6 +18,12 @@ I am Ronel Cruz Ceballos alias RonyPony a software engineer who believes in simp
         
       ⚡ Fun fact: **You don’t have to work in tech to use coding**. 
 
+## Development Stats
+
+![Ronel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronypony&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronypony&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skills 🚀
 
 [<img src='https://img.shields.io/badge/FLUTTER-white?style=for-the-badge&logo=flutter&logoColor=blue' alt='html' height='40'>]() [<img src='https://img.shields.io/badge/FIGMA-black?style=for-the-badge&logo=figma&logoColor=pink' alt='css' height='40'>]() [<img src='https://img.shields.io/badge/FIREBASE-grey?style=for-the-badge&logo=firebase&logoColor=yellow' alt='bootstrap' height='40'>]() [<img src='https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=blue' alt='sass' height='40'>]() [<img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='javascript' height='40'>]() [<img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white' alt='ubuntu' height='40'>]() [<img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' alt='mysql' height='40'>]() [<img src='https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoColor=purple' alt='reack' height='40'>]() [<img src='https://img.shields.io/badge/visual%20basic-red?style=for-the-badge&logo=visualbasic&logoColor=black' alt='nodejs' height='40'>]() [<img src='https://img.shields.io/badge/mariadb-yellow?style=for-the-badge&logo=mariadb&logoColor=black' alt='express' height='40'>]() [<img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' alt='sqlite' height='40'>]() [<img src='https://img.shields.io/badge/angular-white?style=for-the-badge&logo=angular&logoColor=red' alt='mongodb' height='40'>]() [<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt='TypeScript' height='40'>]() [<img src='https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white' alt='.NET' height='40'>]()
