@@ -8,7 +8,7 @@ I am Ronel Cruz Ceballos alias RonyPony a software engineer who believes in simp
 [Check out my portfolio](#)
 
         
-      🎓 I am currently pursuing my **Technical studies in Software Development**.
+      🎓 I am done with my **Technical studies in Software Development**.
         
       🔭 I’m currently working on a **ASP .NET CORE, NODE JS API AND FRONT END WITH ANGULAR**
         
